@@ -204,4 +204,4 @@ This repository serves as the official landing page for Neocron. The software is
 **Get the most recent version of Neocron today!**
 
 ---
-**Last updated:** 2026-11-10 18:24:52 UTC
+**Last updated:** 2026-11-10 23:51:10 UTC
